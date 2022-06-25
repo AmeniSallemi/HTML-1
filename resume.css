@@ -1,0 +1,19 @@
+body {
+  background-image: url(/aud3.png);
+  background-position: center;
+  background-size: cover;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: rgb(129, 12, 12);
+  font-weight: 100;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+}
+.aud {
+  align-items: center;
+  position: relative;
+}
+)

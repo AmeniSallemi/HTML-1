@@ -1,0 +1,23 @@
+button {
+  background-color: aqua;
+}
+li {
+  color: rgb(0, 2, 128);
+  font-family: roboto;
+  text-align: center;
+  list-style-type: circle;
+}
+body {
+  background-image: url(/back2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+label {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: initial;
+  color: darkblue;
+}
+textarea {
+  background-color: lightblue;
+}
