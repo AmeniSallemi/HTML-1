@@ -5,6 +5,25 @@ h1 {
   color: red;
   font-weight: 100;
 }
+a {
+  padding: 50px;
+  font-size: larger;
+  font-style: oblique;
+}
 body {
   background-color: azure;
+}
+.div2 {
+  width: 70%;
+  display: flex;
+  margin: 10%;
+  justify-content: space-between;
+  border: 10%;
+}
+h1 {
+  padding: 8%;
+  font-size: 300%;
+}
+video {
+  width: 70%;
 }

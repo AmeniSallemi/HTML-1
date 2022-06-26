@@ -12,3 +12,14 @@ p {
   font-size: medium;
   color: darkblue;
 }
+a {
+  padding: 50px;
+  font-size: larger;
+  font-style: oblique;
+  
+}
+em {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+  color: crimson;
+}

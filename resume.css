@@ -6,14 +6,27 @@ body {
 h1 {
   color: blue;
 }
+a {
+  padding: 50px;
+  font-size: larger;
+  font-style: oblique;
+}
 p {
   color: rgb(129, 12, 12);
   font-weight: 100;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-style: oblique;
 }
 .aud {
   align-items: center;
   position: relative;
 }
-)
+h1 {
+  margin-left: 7%;
+  margin-top: 10%;
+}
+p {
+  margin-left: 7%;
+  margin-top: 3%;
+  color: brown;
+}
